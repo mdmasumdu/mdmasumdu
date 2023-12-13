@@ -1,7 +1,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdmasumdu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdmasumdu/)  
 
 ### Hi there 👋, my name is MASUM
-#### I am a professional Front-End web developer. I am a passionate web developer on a mission to create engaging and user-friendly digital experiences. My journey in the world of coding began [X years ago], and since then, I've been crafting innovative solutions to solve real-world problems.
+#### I am a professional  web developer. I am a passionate web developer on a mission to create engaging and user-friendly digital experiences. 
 
 💻 As a full-stack developer, I enjoy working with a diverse range of technologies. From front-end magic with HTML, CSS, and JavaScript to server-side wizardry using Node.js and Express, I love bringing ideas to life through clean and efficient code.
 
@@ -16,7 +16,7 @@
 Happy coding! 🚀✨
 
 
-![I am a professional Front-End web developer.](https://i.ibb.co/0fSZMZS/1695828458481.jpg)
+![I am a professional  web developer.](https://i.ibb.co/0fSZMZS/1695828458481.jpg)
 
 As a front-end web developer, I leverage a powerful stack of technologies to create dynamic and responsive user interfaces. I specialize in using React, a robust JavaScript library, to build modular and efficient components that enhance the interactivity of web applications. My proficiency in HTML and CSS ensures that the structure and styling of the websites I create are not only visually appealing but also adhere to best practices for accessibility and responsiveness.
 
