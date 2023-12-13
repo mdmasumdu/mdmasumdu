@@ -23,6 +23,8 @@ Skills:  REACT / JS / HTML / CSS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmasumdu)
 
 
+<p><img align="left" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=mdmasumdu" alt="mdmasumdu" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmasumdu&show_icons=true&locale=en" alt="mdmasumdu" /></p>
 
 
