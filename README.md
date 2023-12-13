@@ -7,7 +7,7 @@
 
 💻 As a full-stack developer, I enjoy working with a diverse range of technologies. From front-end magic with HTML, CSS, and JavaScript to server-side wizardry using Node.js and Express, I love bringing ideas to life through clean and efficient code.
 
-🚀 My skill set extends to popular frameworks like React , enabling me to build dynamic and responsive interfaces. I'm also well-versed in database design and management, with experience in both SQL and NoSQL databases.
+🚀 My skill set extends to popular frameworks like React , enabling me to build dynamic and responsive interfaces. I'm also well-versed in database design and management, with experience in MongoDB.
 
 🛠️ Whether it's creating pixel-perfect UIs, optimizing performance, or solving complex back-end challenges, I thrive in turning concepts into reality. I believe in the power of collaboration and open source, and I'm always eager to learn and share knowledge with the developer community.
 
