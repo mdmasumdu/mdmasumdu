@@ -2,20 +2,8 @@
 
 
 # 🚀 About Me
-### Hi there 👋, my name is MASUM
-#### I am a professional  web developer. I am a passionate web developer on a mission to create engaging and user-friendly digital experiences. 
-
-💻 As a full-stack developer, I enjoy working with a diverse range of technologies. From front-end magic with HTML, CSS, and JavaScript to server-side wizardry using Node.js and Express, I love bringing ideas to life through clean and efficient code.
-
-🚀 My skill set extends to popular frameworks like React , enabling me to build dynamic and responsive interfaces. I'm also well-versed in database design and management, with experience in MongoDB.
-
-🛠️ Whether it's creating pixel-perfect UIs, optimizing performance, or solving complex back-end challenges, I thrive in turning concepts into reality. I believe in the power of collaboration and open source, and I'm always eager to learn and share knowledge with the developer community.
-
-🌐 When I'm not immersed in lines of code, you'll find me exploring the latest trends in web development, experimenting with new technologies, and contributing to open source projects. I'm a firm believer in continuous learning, and I'm excited about the endless possibilities that the tech world has to offer.
-
-📫 Let's connect and build something amazing together! Feel free to explore my repositories, and don't hesitate to reach out for collaboration, questions, or just a friendly chat.
-
-Happy coding! 🚀✨
+### Hi there 👋, my name is MD MASUM
+#### I am a professional  web developer. I am a passionate web developer on a mission to create engaging and user-friendly digital experiences. I would like to see myself as a dedicated web developer who is  working efficiently in any situation learning new technolgies ,facing challeges everyday.
 
 
 ![I am a professional  web developer.](https://i.ibb.co/0fSZMZS/1695828458481.jpg)
