@@ -43,7 +43,7 @@ With this comprehensive technology stack, I am equipped to develop cutting-edge 
 
 
 ## Your-College
-Your Event Manager is online teaching platform.I worked here as a Full-stack web developer. Used technologies like Html, CSS, Javascript, Tailwind, React, Firebase,express js,MongoDb,Node js etc
+Your college is online teaching platform.I worked here as a Full-stack web developer. Used technologies like Html, CSS, Javascript, Tailwind, React, Firebase,express js,MongoDb,Node js etc
 
 <br/>
 Live link: https://your-college-27b9c.web.app/
